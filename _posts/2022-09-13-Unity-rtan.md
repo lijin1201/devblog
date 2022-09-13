@@ -14,7 +14,7 @@ onCollision
 
 ```
 
-## 개임플레이:
+## 게임플레이:
 
 ![](/images/posts/shell/zsh-gmt-completion.gif)
 
